@@ -66,10 +66,9 @@ proximo:
 	add $s0, $s0, 1
 	
 	j calculo
-
+	
 fim:
-	li $v0, 10
-	syscall
+
 	
 	
 	
